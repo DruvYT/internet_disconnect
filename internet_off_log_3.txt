@@ -1,0 +1,13 @@
+2024-05-21 14:25:44 - Script started
+2024-05-21 14:25:44 - Checking for user inactivity
+2024-05-21 14:27:48 - Script started
+2024-05-21 14:27:48 - Checking for user inactivity
+2024-05-21 14:28:03 - User activity detected
+2024-05-21 14:28:04 - Checking for user inactivity
+2024-05-21 14:28:19 - User activity detected
+2024-05-21 14:28:20 - Checking for user inactivity
+2024-05-21 14:28:35 - User inactive for 15 seconds
+2024-05-21 14:28:35 - Internet connection disabled
+2024-05-21 14:28:36 - Checking for user inactivity
+2024-05-21 14:28:51 - User activity detected
+2024-05-21 14:28:52 - Checking for user inactivity
