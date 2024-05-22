@@ -7,7 +7,7 @@ import pyautogui
 def check_inactivity():
     # Initial mouse position
     initial_position = pyautogui.position()
-    time.sleep(15)  # Wait for 15 seconds
+    time.sleep(1)  # Wait for 15 seconds
     new_position = pyautogui.position()
     
     # Check if mouse position has changed
